@@ -1,0 +1,11 @@
+{
+    "$schema": "https://www.schemastore.org/mocharc.json",
+    "color": true,
+    "diff": true,
+    "watch": false,
+    "timeout": 2000,
+    "extension": ["js"],
+    "ui": "bdd",
+    "package": "./package.json",
+    "reporter": "spec"
+}

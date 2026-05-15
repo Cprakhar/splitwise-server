@@ -11,7 +11,7 @@
     "module": "nodenext",
     "moduleResolution": "node16",
     "target": "esnext",
-    "types": ["node", "express"],
+    "types": ["node", "express", "mocha"],
 
     // Other Outputs
     "sourceMap": true,
